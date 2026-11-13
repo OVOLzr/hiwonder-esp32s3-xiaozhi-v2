@@ -12,7 +12,8 @@
 ---
 
 ### 运行效果
-<img width="300" height="184" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/3208c747-a5a3-4f41-b922-3346c01414b0" />
+<img width="300" height="184" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/807690db-1cfe-4d0e-b969-71f159d2cf37" />
+
 
 ---
 
